@@ -6,10 +6,14 @@ namespace _01_SumTwoNumbers
     {
         static int Main(string[] args)
         {
-            Console.WriteLine(string.Join(", ", args));
-            Console.WriteLine("The length of the args list is: " + args.Length);
-            float number1 = 1.5f;
-            float number2 = 2.5f;
+            if (args.Length != 2)
+            {
+                Usage();
+                return 1;
+            }
+
+            float number1 = float.Parse(args[0]);
+            float number2 = float.Parse(args[1]);
             float sum = Sum(number1, number2);
             Console.WriteLine("The sum of " + number1 + " and " + number2 + " is " + sum);
 
@@ -19,6 +23,11 @@ namespace _01_SumTwoNumbers
         static float Sum(float number1, float number2)
         {
             return number1 + number2;
+        }
+
+        static void Usage()
+        {
+            Console.WriteLine("Usage: dotnet run <number1> <number2>");
         }
     }
 }
