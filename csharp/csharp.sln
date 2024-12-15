@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SumTwoNumbers", "01_SumTwoNumbers\01_SumTwoNumbers.csproj", "{118E04B6-B601-48C1-94B3-C92DB586AA3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ConvertMinutesToSeconds", "02_ConvertMinutesToSeconds\02_ConvertMinutesToSeconds.csproj", "{69D0FDC1-97DC-4B0D-AC6E-AA4D360AAD12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{118E04B6-B601-48C1-94B3-C92DB586AA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118E04B6-B601-48C1-94B3-C92DB586AA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118E04B6-B601-48C1-94B3-C92DB586AA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D0FDC1-97DC-4B0D-AC6E-AA4D360AAD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D0FDC1-97DC-4B0D-AC6E-AA4D360AAD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D0FDC1-97DC-4B0D-AC6E-AA4D360AAD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D0FDC1-97DC-4B0D-AC6E-AA4D360AAD12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
