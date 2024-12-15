@@ -12,10 +12,19 @@ namespace _01_SumTwoNumbers
                 return 1;
             }
 
-            float number1 = float.Parse(args[0]);
-            float number2 = float.Parse(args[1]);
-            float sum = Sum(number1, number2);
-            Console.WriteLine("The sum of " + number1 + " and " + number2 + " is " + sum);
+            try
+            {
+                float number1 = float.Parse(args[0]);
+                float number2 = float.Parse(args[1]);
+                float sum = Sum(number1, number2);
+                Console.WriteLine("The sum of " + number1 + " and " + number2 + " is " + sum);
+            }
+            catch (FormatException)
+            {
+                Usage();
+                return 1;
+            }
+
 
             return 0;
         }
