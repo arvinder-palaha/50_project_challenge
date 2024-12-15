@@ -6,7 +6,23 @@ The aim is to complete 50 "small" projects, of about 100 lines of code each.
 The number of projects will give a good range of topics.
 The size of the projects will give a good feedback look on progress.
 
-## Approach
+## Strategy
 
 Use this resource at (edabit)[https://edabit.com/challenges/csharp] to get project ideas.
 Start with 10 of the easiest projects, and work up to the harder ones for each decade.
+
+## Setting up the solution
+
+```powershell
+dotnet new sln -n csharp
+```
+
+## Creating a new project
+
+```powershell
+mkdir <project-name>
+cd <project-name>
+dotnet new console
+cd ..
+dotnet sln add <project-name>
+```
