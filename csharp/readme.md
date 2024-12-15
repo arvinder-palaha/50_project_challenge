@@ -30,13 +30,13 @@ dotnet sln add <project-name>
 ## Projects
 
 - Very easy
-  - [x] (01_SumTwoNumbers)[https://edabit.com/challenge/xfRucdwGksiyjZq4K]
-  - [ ] (02_ConvertMinutesToSeconds)[https://edabit.com/challenge/bizjGL4wyd8PwR4Ke]
-  - [ ] (03_NextNumber)[https://edabit.com/challenge/RzkLShpDgDqG3c45H]
-  - [ ] (04_CircuitPowerCalculator)[https://edabit.com/challenge/L2fwjYi9YixY8kJfK]
-  - [ ] (05_ConvertAgeToDays)[https://edabit.com/challenge/nkkKguC5TgWnBiMLA]
-  - [ ] (06_AreaOfTriangle)[https://edabit.com/challenge/aiaLK9Tg6qc8sLDjv]
-  - [ ] (07_RemainderOfTwoNumbers)[https://edabit.com/challenge/4p5WBxogs2ENAb4Wu]
-  - [ ] (08_LessThenOrEqualToZero)[https://edabit.com/challenge/7KX5NogxnTzrKEd5P]
-  - [ ] (09_LessThan100)[https://edabit.com/challenge/3ZwEJFANGaSpqnzrs]
-  - [ ] (10_FindPerimeterOfRectangle)[https://edabit.com/challenge/5JzZhNdpRkDKsWwFW]
+  - [x] [01_SumTwoNumbers](https://edabit.com/challenge/xfRucdwGksiyjZq4K)
+  - [ ] [02_ConvertMinutesToSeconds](https://edabit.com/challenge/bizjGL4wyd8PwR4Ke)
+  - [ ] [03_NextNumber](https://edabit.com/challenge/RzkLShpDgDqG3c45H)
+  - [ ] [04_CircuitPowerCalculator](https://edabit.com/challenge/L2fwjYi9YixY8kJfK)
+  - [ ] [05_ConvertAgeToDays](https://edabit.com/challenge/nkkKguC5TgWnBiMLA)
+  - [ ] [06_AreaOfTriangle](https://edabit.com/challenge/aiaLK9Tg6qc8sLDjv)
+  - [ ] [07_RemainderOfTwoNumbers](https://edabit.com/challenge/4p5WBxogs2ENAb4Wu)
+  - [ ] [08_LessThenOrEqualToZero](https://edabit.com/challenge/7KX5NogxnTzrKEd5P)
+  - [ ] [09_LessThan100](https://edabit.com/challenge/3ZwEJFANGaSpqnzrs)
+  - [ ] [10_FindPerimeterOfRectangle](https://edabit.com/challenge/5JzZhNdpRkDKsWwFW)
