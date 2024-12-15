@@ -31,7 +31,7 @@ dotnet sln add <project-name>
 
 - Very easy
   - [x] [01_SumTwoNumbers](https://edabit.com/challenge/xfRucdwGksiyjZq4K)
-  - [ ] [02_ConvertMinutesToSeconds](https://edabit.com/challenge/bizjGL4wyd8PwR4Ke)
+  - [x] [02_ConvertMinutesToSeconds](https://edabit.com/challenge/bizjGL4wyd8PwR4Ke)
   - [ ] [03_NextNumber](https://edabit.com/challenge/RzkLShpDgDqG3c45H)
   - [ ] [04_CircuitPowerCalculator](https://edabit.com/challenge/L2fwjYi9YixY8kJfK)
   - [ ] [05_ConvertAgeToDays](https://edabit.com/challenge/nkkKguC5TgWnBiMLA)
