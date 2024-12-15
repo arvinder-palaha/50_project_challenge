@@ -6,6 +6,8 @@ namespace _01_SumTwoNumbers
     {
         static int Main(string[] args)
         {
+            Console.WriteLine(string.Join(", ", args));
+            Console.WriteLine("The length of the args list is: " + args.Length);
             float number1 = 1.5f;
             float number2 = 2.5f;
             float sum = Sum(number1, number2);
