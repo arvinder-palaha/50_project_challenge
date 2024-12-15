@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ConvertMinutesToSeconds"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_NextNumber", "03_NextNumber\03_NextNumber.csproj", "{B9B4E5DF-9668-43E0-B091-7E0A1C5884DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_CircuitPowerCalculator", "04_CircuitPowerCalculator\04_CircuitPowerCalculator.csproj", "{7996CB83-640B-43BB-B91E-8F7EB40FFC06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{B9B4E5DF-9668-43E0-B091-7E0A1C5884DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B4E5DF-9668-43E0-B091-7E0A1C5884DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B4E5DF-9668-43E0-B091-7E0A1C5884DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7996CB83-640B-43BB-B91E-8F7EB40FFC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7996CB83-640B-43BB-B91E-8F7EB40FFC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7996CB83-640B-43BB-B91E-8F7EB40FFC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7996CB83-640B-43BB-B91E-8F7EB40FFC06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
