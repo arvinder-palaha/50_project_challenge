@@ -7,6 +7,6 @@ From the voltage and current, calculate the power.
 - [x] Callable from command line
 - [x] Will accept two arguments
   - [x] Can take positional arguments
-  - [ ] Can take named arguments
+  - [x] Can take named arguments
 - [x] Will return the power
 - [x] Will handle errors (show usage)

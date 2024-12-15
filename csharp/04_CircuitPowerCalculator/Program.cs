@@ -1,21 +1,50 @@
-﻿if (args.Length != 2)
+﻿float? voltage = null;
+float? current = null;
+
+ParseArguments(args, ref voltage, ref current);
+
+if (!voltage.HasValue || !current.HasValue)
 {
     PrintUsage();
-    return;
 }
 
-try
-{
-    float voltage = float.Parse(args[0]);
-    float current = float.Parse(args[1]);
+float power = CalculatePower(voltage!.Value, current!.Value);
 
-    float power = CalculatePower(voltage, current);
+Console.WriteLine($"A voltage of {voltage}V and a current of {current}A results in a power of {power} watts.");
 
-    Console.WriteLine($"A voltage of {voltage}V and a current of {current}A results in a power of {power} watts.");
-}
-catch (FormatException)
+static void ParseArguments(string[] args, ref float? voltage, ref float? current)
 {
-    PrintUsage();
+    if (args.Length != 2 && args.Length != 4)
+    {
+        PrintUsage();
+    }
+
+    if (args.Length == 2)
+    {
+        try
+        {
+            voltage = float.Parse(args[0]);
+            current = float.Parse(args[1]);
+        }
+        catch (FormatException)
+        {
+            PrintUsage();
+        }
+    }
+    else if (args.Length == 4)
+    {
+        for (int i = 0; i < args.Length; i += 2)
+        {
+            if (args[i] == "--voltage")
+            {
+                voltage = float.Parse(args[i + 1]);
+            }
+            else if (args[i] == "--current")
+            {
+                current = float.Parse(args[i + 1]);
+            }
+        }
+    }
 }
 
 static float CalculatePower(float voltage, float current)
@@ -25,5 +54,8 @@ static float CalculatePower(float voltage, float current)
 
 static void PrintUsage()
 {
-    Console.WriteLine("Usage: dotnet run <voltage> <current>");
+    Console.WriteLine("Usage:");
+    Console.WriteLine("\tdotnet run <voltage> <current>");
+    Console.WriteLine("\tdotnet run --voltage <voltage> --current <current>");
+    Environment.Exit(1);
 }
