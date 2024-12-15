@@ -9,4 +9,4 @@ From the voltage and current, calculate the power.
   - [x] Can take positional arguments
   - [ ] Can take named arguments
 - [x] Will return the power
-- [ ] Will handle errors (show usage)
+- [x] Will handle errors (show usage)
