@@ -4,8 +4,8 @@ Given an integer, return the next number.
 
 ## Goals
 
-- [ ] Callable from command line
-- [ ] Will accept one argument
-- [ ] Will return the next number
-- [ ] Will handle errors
+- [x] Callable from command line
+- [x] Will accept one argument
+- [x] Will return the next number
+- [x] Will handle errors
 
