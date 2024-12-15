@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿float voltage = float.Parse(args[0]);
+float current = float.Parse(args[1]);
+
+float power = CalculatePower(voltage, current);
+
+Console.WriteLine($"A voltage of {voltage}V and a current of {current}A results in a power of {power} watts.");
+
+static float CalculatePower(float voltage, float current)
+{
+    return voltage * current;
+}
+
+// static void PrintUsage()
+// {
+//     Console.WriteLine("Usage: dotnet run <voltage> <current>");
+// }

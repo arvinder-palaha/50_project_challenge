@@ -4,9 +4,9 @@ From the voltage and current, calculate the power.
 
 ## Goals
 
-- [ ] Callable from command line
-- [ ] Will accept two arguments
-  - [ ] Can take positional arguments
+- [x] Callable from command line
+- [x] Will accept two arguments
+  - [x] Can take positional arguments
   - [ ] Can take named arguments
-- [ ] Will return the power
+- [x] Will return the power
 - [ ] Will handle errors (show usage)
