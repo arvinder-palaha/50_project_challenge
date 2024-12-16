@@ -4,7 +4,7 @@ From the base and height of a triangle, calculate the area.
 
 ## Goals
 
-- [ ] Callable from command line
+- [x] Callable from command line
 - [ ] Will accept two positional arguments
 - [ ] Will return the area of the triangle
 - [ ] Will handle errors (show usage)
