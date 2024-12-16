@@ -3,9 +3,16 @@
     PrintUsage();
 }
 
-int number = int.Parse(args[0]);
+try
+{
+    int number = int.Parse(args[0]);
 
-Console.WriteLine($"{number <= 0}");
+    Console.WriteLine($"{number <= 0}");
+}
+catch (FormatException)
+{
+    PrintUsage();
+}
 
 static void PrintUsage()
 {
