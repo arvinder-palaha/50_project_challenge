@@ -10,6 +10,6 @@ Remainder(5, 5) ➞ 0
 
 ## Goals
 
- - [ ] Take two positional arguments
- - [ ] Return the remainder of the two arguments
+ - [x] Take two positional arguments
+ - [x] Return the remainder of the two arguments
  - [ ] Handle errors (show usage)
