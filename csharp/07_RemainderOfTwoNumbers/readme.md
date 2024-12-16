@@ -12,4 +12,4 @@ Remainder(5, 5) ➞ 0
 
  - [x] Take two positional arguments
  - [x] Return the remainder of the two arguments
- - [ ] Handle errors (show usage)
+ - [x] Handle errors (show usage)

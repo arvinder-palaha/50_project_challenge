@@ -7,12 +7,19 @@
             PrintUsage();
         }
 
-        int number1 = int.Parse(args[0]);
-        int number2 = int.Parse(args[1]);
+        try
+        {
+            int number1 = int.Parse(args[0]);
+            int number2 = int.Parse(args[1]);
 
-        int remainder = number1 % number2;
+            int remainder = number1 % number2;
 
-        Console.WriteLine($"{remainder}");
+            Console.WriteLine($"{remainder}");
+        }
+        catch (FormatException)
+        {
+            PrintUsage();
+        }
     }
 
     private static void PrintUsage()
