@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_CircuitPowerCalculator",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ConvertAgeToDays", "05_ConvertAgeToDays\05_ConvertAgeToDays.csproj", "{038D462E-CF76-4925-ABCA-16E86F7E77EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_AreaOfTriangle", "06_AreaOfTriangle\06_AreaOfTriangle.csproj", "{F636A077-1CE7-4FD4-AC02-883B44D6D519}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{038D462E-CF76-4925-ABCA-16E86F7E77EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038D462E-CF76-4925-ABCA-16E86F7E77EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038D462E-CF76-4925-ABCA-16E86F7E77EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F636A077-1CE7-4FD4-AC02-883B44D6D519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F636A077-1CE7-4FD4-AC02-883B44D6D519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F636A077-1CE7-4FD4-AC02-883B44D6D519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F636A077-1CE7-4FD4-AC02-883B44D6D519}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
