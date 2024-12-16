@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_AreaOfTriangle", "06_Are
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_RemainderOfTwoNumbers", "07_RemainderOfTwoNumbers\07_RemainderOfTwoNumbers.csproj", "{EAD1647B-7760-4D1D-A39E-199D05D1FAE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_LessThenOrEqualToZero", "08_LessThenOrEqualToZero\08_LessThenOrEqualToZero.csproj", "{75FC1D0E-F6E9-4CFB-BD25-1BC63494FEF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{EAD1647B-7760-4D1D-A39E-199D05D1FAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAD1647B-7760-4D1D-A39E-199D05D1FAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAD1647B-7760-4D1D-A39E-199D05D1FAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FC1D0E-F6E9-4CFB-BD25-1BC63494FEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FC1D0E-F6E9-4CFB-BD25-1BC63494FEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FC1D0E-F6E9-4CFB-BD25-1BC63494FEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FC1D0E-F6E9-4CFB-BD25-1BC63494FEF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
