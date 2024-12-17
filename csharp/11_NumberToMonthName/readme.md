@@ -4,6 +4,6 @@ Given a number between 1 and 12, return the name of the month.
 
 ## Goals
 
-- [ ] Take a positional argument
-- [ ] Return the name of the month
-- [ ] Handle errors (show usage)
+- [x] Take a positional argument
+- [x] Return the name of the month
+- [x] Handle errors (show usage)

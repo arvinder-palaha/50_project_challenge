@@ -41,7 +41,7 @@ dotnet sln add <project-name>
   - [x] [09_LessThan100](https://edabit.com/challenge/3ZwEJFANGaSpqnzrs)
   - [x] [10_FindPerimeterOfRectangle](https://edabit.com/challenge/5JzZhNdpRkDKsWwFW)
 - Easy
-  - [ ] [11_NumberToMonthName](https://edabit.com/challenge/uevxL5FNM77otyo9Z)
+  - [x] [11_NumberToMonthName](https://edabit.com/challenge/uevxL5FNM77otyo9Z)
   - [ ] [12_FindBiggestAndSmallestNumber](https://edabit.com/challenge/uevxL5FNM77otyo9Z)
   - [ ] [13_ToThePowerOf](https://edabit.com/challenge/esARjHfWfdRP6ePEC)
   - [ ] [14_HammingDistance](https://edabit.com/challenge/K49LXsoMmS6tXxP7R)
