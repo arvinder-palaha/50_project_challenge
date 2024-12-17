@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿if (args.Length != 2)
+{
+    PrintUsage();
+}
+
+static void PrintUsage()
+{
+    Console.WriteLine("Usage: Program.exe <length> <width>");
+    Environment.Exit(1);
+}
