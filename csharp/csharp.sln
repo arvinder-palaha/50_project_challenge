@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_LessThenOrEqualToZero", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_LessThan100", "09_LessThan100\09_LessThan100.csproj", "{836BF5CF-1FF2-4730-964D-7D251B9BD629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_FindPerimeterOfRectangle", "10_FindPerimeterOfRectangle\10_FindPerimeterOfRectangle.csproj", "{5F078CD3-C60F-4096-8D93-1D6704DEA0ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{836BF5CF-1FF2-4730-964D-7D251B9BD629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{836BF5CF-1FF2-4730-964D-7D251B9BD629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{836BF5CF-1FF2-4730-964D-7D251B9BD629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F078CD3-C60F-4096-8D93-1D6704DEA0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F078CD3-C60F-4096-8D93-1D6704DEA0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F078CD3-C60F-4096-8D93-1D6704DEA0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F078CD3-C60F-4096-8D93-1D6704DEA0ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
