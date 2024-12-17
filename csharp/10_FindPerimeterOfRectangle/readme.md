@@ -4,6 +4,6 @@ Given a length and width of a rectangle, return the perimeter.
 
 ## Goals
 
-- [ ] Take two positional arguments
-- [ ] Return the perimeter of the rectangle
-- [ ] Handle errors (show usage)
+- [x] Take two positional arguments
+- [x] Return the perimeter of the rectangle
+- [x] Handle errors (show usage)

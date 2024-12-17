@@ -39,4 +39,4 @@ dotnet sln add <project-name>
   - [x] [07_RemainderOfTwoNumbers](https://edabit.com/challenge/4p5WBxogs2ENAb4Wu)
   - [x] [08_LessThenOrEqualToZero](https://edabit.com/challenge/7KX5NogxnTzrKEd5P)
   - [x] [09_LessThan100](https://edabit.com/challenge/3ZwEJFANGaSpqnzrs)
-  - [ ] [10_FindPerimeterOfRectangle](https://edabit.com/challenge/5JzZhNdpRkDKsWwFW)
+  - [x] [10_FindPerimeterOfRectangle](https://edabit.com/challenge/5JzZhNdpRkDKsWwFW)
