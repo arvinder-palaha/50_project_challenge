@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_ToThePowerOf", "13_ToThe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_HammingDistance", "14_HammingDistance\14_HammingDistance.csproj", "{C3110EBE-25C7-46AE-8C44-347DF1C0805E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_ShuffleTheName", "15_ShuffleTheName\15_ShuffleTheName.csproj", "{A4D758DF-83A8-4E03-B1DF-52FB7A0FCD83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{C3110EBE-25C7-46AE-8C44-347DF1C0805E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3110EBE-25C7-46AE-8C44-347DF1C0805E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3110EBE-25C7-46AE-8C44-347DF1C0805E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D758DF-83A8-4E03-B1DF-52FB7A0FCD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D758DF-83A8-4E03-B1DF-52FB7A0FCD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D758DF-83A8-4E03-B1DF-52FB7A0FCD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D758DF-83A8-4E03-B1DF-52FB7A0FCD83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
