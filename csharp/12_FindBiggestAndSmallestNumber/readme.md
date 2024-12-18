@@ -12,5 +12,5 @@ FindMinMax([1]) ➞ [1, 1]
 
 - [x] Function takes an array of numbers
 - [x] Return the minimum and maximum numbers, in that order
-- [ ] Can be given a filepath to a file containing numbers
-- [ ] Handle errors (show usage)
+- [x] Can be given an argument containing numbers
+- [x] Handle errors (show usage)
