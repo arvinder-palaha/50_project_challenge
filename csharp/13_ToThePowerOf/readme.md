@@ -12,6 +12,6 @@ Create a function that takes a base and an exponent and returns the result.
 
 ## Goals
 
-- [ ] Take a base and an exponent as arguments.
-- [ ] Return the result.
-- [ ] Handle bad inputs.
+- [x] Take a base and an exponent as arguments.
+- [x] Return the result.
+- [x] Handle bad inputs.

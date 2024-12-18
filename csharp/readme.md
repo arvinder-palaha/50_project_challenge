@@ -43,7 +43,7 @@ dotnet sln add <project-name>
 - Easy
   - [x] [11_NumberToMonthName](https://edabit.com/challenge/uevxL5FNM77otyo9Z)
   - [x] [12_FindBiggestAndSmallestNumber](https://edabit.com/challenge/uevxL5FNM77otyo9Z)
-  - [ ] [13_ToThePowerOf](https://edabit.com/challenge/esARjHfWfdRP6ePEC)
+  - [x] [13_ToThePowerOf](https://edabit.com/challenge/esARjHfWfdRP6ePEC)
   - [ ] [14_HammingDistance](https://edabit.com/challenge/K49LXsoMmS6tXxP7R)
   - [ ] [15_ShuffleTheName](https://edabit.com/challenge/c4W4BNymgCC5WkfHp)
   - [ ] [16_SmallerStringNumber](https://edabit.com/challenge/uBqpafqjoYNPuQ7Pr)
