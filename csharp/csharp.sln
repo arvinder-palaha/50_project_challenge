@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_NumberToMonthName", "11_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_FindBiggestAndSmallestNumber", "12_FindBiggestAndSmallestNumber\12_FindBiggestAndSmallestNumber.csproj", "{6416FB8E-5097-431D-B2FB-C75CA2742DE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_ToThePowerOf", "13_ToThePowerOf\13_ToThePowerOf.csproj", "{E04E653F-B26B-4104-9B26-75D8BC361FAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{6416FB8E-5097-431D-B2FB-C75CA2742DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6416FB8E-5097-431D-B2FB-C75CA2742DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6416FB8E-5097-431D-B2FB-C75CA2742DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04E653F-B26B-4104-9B26-75D8BC361FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04E653F-B26B-4104-9B26-75D8BC361FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04E653F-B26B-4104-9B26-75D8BC361FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04E653F-B26B-4104-9B26-75D8BC361FAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
