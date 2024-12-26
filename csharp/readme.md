@@ -48,6 +48,6 @@ dotnet sln add <project-name>
   - [x] [15_ShuffleTheName](https://edabit.com/challenge/c4W4BNymgCC5WkfHp)
   - [x] [16_SmallerStringNumber](https://edabit.com/challenge/uBqpafqjoYNPuQ7Pr)
   - [x] [17_SortNumbersAscending](https://edabit.com/challenge/RocWAnyqu5J4fiZxS)
-  - [ ] [18_HackerSpeak](https://edabit.com/challenge/7nzfry4P3WrrL7t38)
+  - [x] [18_HackerSpeak](https://edabit.com/challenge/7nzfry4P3WrrL7t38)
   - [ ] [19_HowManyDsAreThere](https://edabit.com/challenge/YxoGXwpApf9De7y5w)
   - [ ] [20_RemoveFirstAndLastCharacters](https://edabit.com/challenge/hjFH2T4Gay7m9ka2m)
