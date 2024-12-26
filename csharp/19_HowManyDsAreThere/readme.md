@@ -7,7 +7,7 @@ Write a function that counts the number of Ds in a string.
 ## Examples
 
 ```
-HowManyDsAreThere("Duck") ➞ 1
-HowManyDsAreThere("DuckDuckGoose") ➞ 4
-HowManyDsAreThere("DuckDuckGooseDuck") ➞ 5
+CountDs("My friend Dylan got distracted in school.") ➞ 4
+CountDs("Debris was scattered all over the yard.") ➞ 3
+CountDs("The rodents hibernated in their den.") ➞ 3
 ```
