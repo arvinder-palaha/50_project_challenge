@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_SmallerStringNumber", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_SortNumbersAscending", "17_SortNumbersAscending\17_SortNumbersAscending.csproj", "{EAC0723B-6DD1-4D46-929D-882D92E46D4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_HackerSpeak", "18_HackerSpeak\18_HackerSpeak.csproj", "{A92AE562-0CEA-4342-A26B-30FD829039E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{EAC0723B-6DD1-4D46-929D-882D92E46D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC0723B-6DD1-4D46-929D-882D92E46D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC0723B-6DD1-4D46-929D-882D92E46D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92AE562-0CEA-4342-A26B-30FD829039E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92AE562-0CEA-4342-A26B-30FD829039E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92AE562-0CEA-4342-A26B-30FD829039E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92AE562-0CEA-4342-A26B-30FD829039E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
