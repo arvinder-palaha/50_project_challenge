@@ -40,6 +40,7 @@ dotnet sln add <project-name>
   - [x] [08_LessThenOrEqualToZero](https://edabit.com/challenge/7KX5NogxnTzrKEd5P)
   - [x] [09_LessThan100](https://edabit.com/challenge/3ZwEJFANGaSpqnzrs)
   - [x] [10_FindPerimeterOfRectangle](https://edabit.com/challenge/5JzZhNdpRkDKsWwFW)
+
 - Easy
   - [x] [11_NumberToMonthName](https://edabit.com/challenge/uevxL5FNM77otyo9Z)
   - [x] [12_FindBiggestAndSmallestNumber](https://edabit.com/challenge/uevxL5FNM77otyo9Z)
@@ -51,3 +52,16 @@ dotnet sln add <project-name>
   - [x] [18_HackerSpeak](https://edabit.com/challenge/7nzfry4P3WrrL7t38)
   - [x] [19_HowManyDsAreThere](https://edabit.com/challenge/YxoGXwpApf9De7y5w)
   - [x] [20_RemoveFirstAndLastCharacters](https://edabit.com/challenge/hjFH2T4Gay7m9ka2m)
+
+- Medium
+  - [ ] [21_ArrayOfMultiples](https://edabit.com/challenge/2QvnWexKoLfcJkSsc)
+  - [ ] [22_ReverseTheCase](https://edabit.com/challenge/99oN5igrbXddAjHEL)
+  - [ ] [23_Equality_Check](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
+  - [ ] [24_ReturnIndexCapitalLatters](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
+  - [ ] [25_FindTheBomb](https://edabit.com/challenge/JYEufqRvkusjr5R58)
+  - [ ] [26_ConvertArrayItemsToAString](https://edabit.com/challenge/hqTYj7NbLnCcjxryi)
+  - [ ] [27_FindLargestNumbersInAGroupOfArrays](https://edabit.com/challenge/nermqxzovZbfFBC9X)
+  - [ ] [28_CollatzConjecture](https://edabit.com/challenge/F6m5ZRyzK5fmqTrBG)
+  - [ ] [29_CharactersCounterpartCharCode](https://edabit.com/challenge/zaokQWNdEudmFWpk7)
+  - [ ] [30_CountOnesInBinaryRepOfInteger](https://edabit.com/challenge/zn3A3AAzoE7vezw7Q)
+
