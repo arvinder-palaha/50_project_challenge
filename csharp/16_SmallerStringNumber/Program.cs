@@ -17,7 +17,7 @@ catch (FormatException)
     PrintUsage();
 }
 
-private static int GetSmallerNumber(int number1, int number2)
+static int GetSmallerNumber(int number1, int number2)
 {
     return number1 < number2 ? number1 : number2;
 }
