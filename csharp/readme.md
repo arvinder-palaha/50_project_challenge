@@ -54,7 +54,7 @@ dotnet sln add <project-name>
   - [x] [20_RemoveFirstAndLastCharacters](https://edabit.com/challenge/hjFH2T4Gay7m9ka2m)
 
 - Medium
-  - [ ] [21_ArrayOfMultiples](https://edabit.com/challenge/2QvnWexKoLfcJkSsc)
+  - [x] [21_ArrayOfMultiples](https://edabit.com/challenge/2QvnWexKoLfcJkSsc)
   - [ ] [22_ReverseTheCase](https://edabit.com/challenge/99oN5igrbXddAjHEL)
   - [ ] [23_Equality_Check](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
   - [ ] [24_ReturnIndexCapitalLatters](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
