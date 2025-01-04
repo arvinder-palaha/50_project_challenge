@@ -6,6 +6,14 @@ public class Program
 
     public static List<int> ReturnIndexCapitalLatters(string str)
     {
-        return new List<int>();
+        var result = new List<int>();
+        for (int i = 0; i < str.Length; i++)
+        {
+            if (char.IsUpper(str[i]))
+            {
+                result.Add(i);
+            }
+        }
+        return result;
     }
 }

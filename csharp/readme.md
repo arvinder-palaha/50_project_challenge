@@ -65,7 +65,7 @@ Create a test for the project in the Tests folder.
   - [x] [21_ArrayOfMultiples](https://edabit.com/challenge/2QvnWexKoLfcJkSsc)
   - [x] [22_ReverseTheCase](https://edabit.com/challenge/99oN5igrbXddAjHEL)
   - [x] [23_Equality_Check](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
-  - [ ] [24_ReturnIndexCapitalLatters](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
+  - [x] [24_ReturnIndexCapitalLatters](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
   - [ ] [25_FindTheBomb](https://edabit.com/challenge/JYEufqRvkusjr5R58)
   - [ ] [26_ConvertArrayItemsToAString](https://edabit.com/challenge/hqTYj7NbLnCcjxryi)
   - [ ] [27_FindLargestNumbersInAGroupOfArrays](https://edabit.com/challenge/nermqxzovZbfFBC9X)
