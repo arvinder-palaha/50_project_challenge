@@ -56,7 +56,7 @@ dotnet sln add <project-name>
 - Medium
   - [x] [21_ArrayOfMultiples](https://edabit.com/challenge/2QvnWexKoLfcJkSsc)
   - [x] [22_ReverseTheCase](https://edabit.com/challenge/99oN5igrbXddAjHEL)
-  - [ ] [23_Equality_Check](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
+  - [x] [23_Equality_Check](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
   - [ ] [24_ReturnIndexCapitalLatters](https://edabit.com/challenge/Q7g8sfg7DJq6CyMMu)
   - [ ] [25_FindTheBomb](https://edabit.com/challenge/JYEufqRvkusjr5R58)
   - [ ] [26_ConvertArrayItemsToAString](https://edabit.com/challenge/hqTYj7NbLnCcjxryi)

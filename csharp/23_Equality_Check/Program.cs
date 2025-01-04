@@ -6,6 +6,10 @@ public class Program
 
     public static bool CheckEquality(object a, object b)
     {
-        return a == b;
+        if (a.GetType() != b.GetType())
+        {
+            return false;
+        }
+        return a.Equals(b);
     }
 }

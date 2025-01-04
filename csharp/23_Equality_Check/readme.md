@@ -20,6 +20,6 @@ CheckEquality(0, false) ➞ false
 
 ## Goals
 
-- [ ] Create a test for the function
-- [ ] Implement the function
+- [x] Create a test for the function
+- [x] Implement the function
 
