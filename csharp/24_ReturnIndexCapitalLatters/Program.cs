@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace ReturnIndexCapitalLatters;
+
+public class Program
+{
+    public static void Main(string[] args) {}
+
+    public static List<int> ReturnIndexCapitalLatters(string str)
+    {
+        return new List<int>();
+    }
+}

@@ -27,6 +27,14 @@ cd ..
 dotnet sln add <project-name>
 ```
 
+Add a reference to the project in the Tests.csproj file in the Tests folder.
+
+```xml
+<ProjectReference Include="..\<project-name>\<project-name>.csproj" />
+```
+
+Create a test for the project in the Tests folder.
+
 ## Projects
 
 - Very easy

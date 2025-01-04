@@ -24,6 +24,7 @@
     <ProjectReference Include="..\21_ArrayOfMultiples\21_ArrayOfMultiples.csproj" />
     <ProjectReference Include="..\22_ReverseTheCase\22_ReverseTheCase.csproj" />
     <ProjectReference Include="..\23_Equality_Check\23_Equality_Check.csproj" />
+    <ProjectReference Include="..\24_ReturnIndexCapitalLatters\24_ReturnIndexCapitalLatters.csproj" />
   </ItemGroup>
 
 </Project>

@@ -16,5 +16,5 @@ ReturnIndexCapitalLatters("sUn") ➞ [1]
 
 ## Goals
 
-- [ ] Create a test for the function
+- [x] Create a test for the function
 - [ ] Implement the function
