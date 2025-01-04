@@ -15,4 +15,4 @@ ReverseTheCase("sPoNtAnEoUs") ➞ "SpOnTaNeOuS"
 ## Goals
 
 - [x] Create a test for the function
-- [ ] Implement the function
+- [x] Implement the function
