@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\21_ArrayOfMultiples\21_ArrayOfMultiples.csproj" />
+    <ProjectReference Include="..\22_ReverseTheCase\22_ReverseTheCase.csproj" />
   </ItemGroup>
 
 </Project>

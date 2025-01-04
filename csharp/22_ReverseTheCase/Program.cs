@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace ReverseTheCase;
+
+public static class Program
+{
+    public static string ReverseTheCase(string str)
+    {
+        return str;
+    }
+
+    public static void Main(string[] args) {}
+}
