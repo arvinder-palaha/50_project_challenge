@@ -14,5 +14,5 @@ ArrayOfMultiples(17, 6) ➞ [17, 34, 51, 68, 85, 102]
 
 ## Goals
 
-- [ ] Create a test for the function
-- [ ] Implement the function
+- [x] Create a test for the function
+- [x] Implement the function
