@@ -6,6 +6,6 @@ public class Program
 
     public static object[] ParseArray(object[] array)
     {
-        return array;
+        return array.Select(item => item.ToString() ?? "").ToArray();
     }
 }
