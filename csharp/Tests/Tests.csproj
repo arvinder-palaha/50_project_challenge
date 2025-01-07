@@ -26,6 +26,7 @@
     <ProjectReference Include="..\23_Equality_Check\23_Equality_Check.csproj" />
     <ProjectReference Include="..\24_ReturnIndexCapitalLatters\24_ReturnIndexCapitalLatters.csproj" />
     <ProjectReference Include="..\25_FindTheBomb\25_FindTheBomb.csproj" />
+    <ProjectReference Include="..\26_ConvertArrayItemsToAString\26_ConvertArrayItemsToAString.csproj" />
   </ItemGroup>
 
 </Project>

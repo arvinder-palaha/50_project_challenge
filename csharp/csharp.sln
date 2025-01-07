@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_ReturnIndexCapitalLatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_FindTheBomb", "25_FindTheBomb\25_FindTheBomb.csproj", "{218D20D0-D08E-49C8-8538-C2DD89936DCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_ConvertArrayItemsToAString", "26_ConvertArrayItemsToAString\26_ConvertArrayItemsToAString.csproj", "{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{218D20D0-D08E-49C8-8538-C2DD89936DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{218D20D0-D08E-49C8-8538-C2DD89936DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{218D20D0-D08E-49C8-8538-C2DD89936DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
