@@ -6,6 +6,6 @@ public class Program
 
     public static string FindTheBomb(string sentence)
     {
-        return sentence;
+        return sentence.Contains("bomb") ? "Duck!!!" : "There is no bomb, relax.";
     }
 }

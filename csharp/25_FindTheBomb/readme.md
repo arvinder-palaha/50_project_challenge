@@ -16,5 +16,5 @@ FindTheBomb("This goes boom!!!") ➞ "There is no bomb, relax."
 
 ## Goals
 
-- [ ] Create a test for the function
-- [ ] Implement the function
+- [x] Create a test for the function
+- [x] Implement the function
