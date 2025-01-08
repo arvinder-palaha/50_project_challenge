@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_CharactersCounterpartCha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_CountOnesInBinaryRepOfInteger", "30_CountOnesInBinaryRepOfInteger\30_CountOnesInBinaryRepOfInteger.csproj", "{D04A4363-4E73-407F-B500-30F720AEB007}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_IsTheDieLoaded", "31_IsTheDieLoaded\31_IsTheDieLoaded.csproj", "{3CACB091-C7F8-4785-BCDC-FAAFFFE114F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -192,5 +194,9 @@ Global
 		{D04A4363-4E73-407F-B500-30F720AEB007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D04A4363-4E73-407F-B500-30F720AEB007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D04A4363-4E73-407F-B500-30F720AEB007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CACB091-C7F8-4785-BCDC-FAAFFFE114F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CACB091-C7F8-4785-BCDC-FAAFFFE114F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CACB091-C7F8-4785-BCDC-FAAFFFE114F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CACB091-C7F8-4785-BCDC-FAAFFFE114F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
