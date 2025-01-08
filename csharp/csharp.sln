@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_CollatzConjecture", "28_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_CharactersCounterpartCharCode", "29_CharactersCounterpartCharCode\29_CharactersCounterpartCharCode.csproj", "{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_CountOnesInBinaryRepOfInteger", "30_CountOnesInBinaryRepOfInteger\30_CountOnesInBinaryRepOfInteger.csproj", "{D04A4363-4E73-407F-B500-30F720AEB007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +188,9 @@ Global
 		{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04A4363-4E73-407F-B500-30F720AEB007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04A4363-4E73-407F-B500-30F720AEB007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04A4363-4E73-407F-B500-30F720AEB007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04A4363-4E73-407F-B500-30F720AEB007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

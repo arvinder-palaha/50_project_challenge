@@ -30,6 +30,7 @@
     <ProjectReference Include="..\27_FindLargestNumbersInAGroupOfArrays\27_FindLargestNumbersInAGroupOfArrays.csproj" />
     <ProjectReference Include="..\28_CollatzConjecture\28_CollatzConjecture.csproj" />
     <ProjectReference Include="..\29_CharactersCounterpartCharCode\29_CharactersCounterpartCharCode.csproj" />
+    <ProjectReference Include="..\30_CountOnesInBinaryRepOfInteger\30_CountOnesInBinaryRepOfInteger.csproj" />
   </ItemGroup>
 
 </Project>
