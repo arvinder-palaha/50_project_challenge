@@ -33,6 +33,7 @@
     <ProjectReference Include="..\30_CountOnesInBinaryRepOfInteger\30_CountOnesInBinaryRepOfInteger.csproj" />
     <ProjectReference Include="..\31_IsTheDieLoaded\31_IsTheDieLoaded.csproj" />
     <ProjectReference Include="..\32_ImaginaryCodingInterview\32_ImaginaryCodingInterview.csproj" />
+    <ProjectReference Include="..\33_PowerRanger\33_PowerRanger.csproj" />
   </ItemGroup>
 
 </Project>

@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_IsTheDieLoaded", "31_IsT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_ImaginaryCodingInterview", "32_ImaginaryCodingInterview\32_ImaginaryCodingInterview.csproj", "{1BBD22DE-879C-4B3B-8502-13F58F418A05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_PowerRanger", "33_PowerRanger\33_PowerRanger.csproj", "{00DCE33F-698B-405A-B49A-C1637E1F397A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +206,9 @@ Global
 		{1BBD22DE-879C-4B3B-8502-13F58F418A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BBD22DE-879C-4B3B-8502-13F58F418A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BBD22DE-879C-4B3B-8502-13F58F418A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DCE33F-698B-405A-B49A-C1637E1F397A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DCE33F-698B-405A-B49A-C1637E1F397A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DCE33F-698B-405A-B49A-C1637E1F397A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DCE33F-698B-405A-B49A-C1637E1F397A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -75,7 +75,7 @@ Create a test for the project in the Tests folder.
 
 - Hard
   - [x] [31_IsTheDieLoaded](https://edabit.com/challenge/nH26ehGyyWw86Nsko)
-  - [ ] [32_ImaginaryCodingInterview](https://edabit.com/challenge/dZeNE4BJhyNgA99Fq)
+  - [x] [32_ImaginaryCodingInterview](https://edabit.com/challenge/dZeNE4BJhyNgA99Fq)
   - [ ] [33_PowerRanger](https://edabit.com/challenge/McGCFZYn8ikn3GSqz)
   - [ ] [34_FindTheVertexOfQuadratic](https://edabit.com/challenge/TH8Y97XYtGgbDW8Qw)
   - [ ] [35_ConsecutiveNumbers](https://edabit.com/challenge/TAZywz6R2hu9tDQWc)
