@@ -28,6 +28,7 @@
     <ProjectReference Include="..\25_FindTheBomb\25_FindTheBomb.csproj" />
     <ProjectReference Include="..\26_ConvertArrayItemsToAString\26_ConvertArrayItemsToAString.csproj" />
     <ProjectReference Include="..\27_FindLargestNumbersInAGroupOfArrays\27_FindLargestNumbersInAGroupOfArrays.csproj" />
+    <ProjectReference Include="..\28_CollatzConjecture\28_CollatzConjecture.csproj" />
   </ItemGroup>
 
 </Project>
