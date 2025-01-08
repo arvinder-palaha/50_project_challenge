@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_FindLargestNumbersInAGro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_CollatzConjecture", "28_CollatzConjecture\28_CollatzConjecture.csproj", "{A74F55D7-968C-4686-B287-490A480A8ECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_CharactersCounterpartCharCode", "29_CharactersCounterpartCharCode\29_CharactersCounterpartCharCode.csproj", "{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{A74F55D7-968C-4686-B287-490A480A8ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A74F55D7-968C-4686-B287-490A480A8ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A74F55D7-968C-4686-B287-490A480A8ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F841DC-DA6C-462D-87D6-4227D8DF2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
