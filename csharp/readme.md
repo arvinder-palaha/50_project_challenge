@@ -69,7 +69,7 @@ Create a test for the project in the Tests folder.
   - [x] [25_FindTheBomb](https://edabit.com/challenge/JYEufqRvkusjr5R58)
   - [x] [26_ConvertArrayItemsToAString](https://edabit.com/challenge/hqTYj7NbLnCcjxryi)
   - [x] [27_FindLargestNumbersInAGroupOfArrays](https://edabit.com/challenge/nermqxzovZbfFBC9X)
-  - [ ] [28_CollatzConjecture](https://edabit.com/challenge/F6m5ZRyzK5fmqTrBG)
+  - [x] [28_CollatzConjecture](https://edabit.com/challenge/F6m5ZRyzK5fmqTrBG)
   - [ ] [29_CharactersCounterpartCharCode](https://edabit.com/challenge/zaokQWNdEudmFWpk7)
   - [ ] [30_CountOnesInBinaryRepOfInteger](https://edabit.com/challenge/zn3A3AAzoE7vezw7Q)
 
