@@ -73,3 +73,28 @@ Create a test for the project in the Tests folder.
   - [x] [29_CharactersCounterpartCharCode](https://edabit.com/challenge/zaokQWNdEudmFWpk7)
   - [x] [30_CountOnesInBinaryRepOfInteger](https://edabit.com/challenge/zn3A3AAzoE7vezw7Q)
 
+- Hard
+  - [ ] [31_IsTheDieLoaded](https://edabit.com/challenge/nH26ehGyyWw86Nsko)
+  - [ ] [32_ImaginaryCodingInterview](https://edabit.com/challenge/dZeNE4BJhyNgA99Fq)
+  - [ ] [33_PowerRanger](https://edabit.com/challenge/McGCFZYn8ikn3GSqz)
+  - [ ] [34_FindTheVertexOfQuadratic](https://edabit.com/challenge/TH8Y97XYtGgbDW8Qw)
+  - [ ] [35_ConsecutiveNumbers](https://edabit.com/challenge/TAZywz6R2hu9tDQWc)
+  - [ ] [36_TrackTheRobot](https://edabit.com/challenge/g88PKZrCY6sWPBva7)
+  - [ ] [37_NextPrime](https://edabit.com/challenge/FKb8JY75nkaHz7B3F)
+  - [ ] [38_AlmostPalindrome](https://edabit.com/challenge/t6R99zCQ7nesR7Rdk)
+  - [ ] [39_AWeekLater](https://edabit.com/challenge/y4esBva2cYph5QKg5)
+  - [ ] [40_CountDuplicateCharacters](https://edabit.com/challenge/wXCzoLtvvEEYBs3p9)
+
+- Very Hard
+  - [ ] [41_SimplifiedFraction](https://edabit.com/challenge/3wT3QcDdfvMR3amjc)
+  - [ ] [42_MaximumOccurrence](https://edabit.com/challenge/vtdfueRCmpRGyLAGs)
+  - [ ] [43_TrackTheRobotPart3](https://edabit.com/challenge/6S2aJYTjAka94muDT)
+  - [ ] [44_Working9To5](https://edabit.com/challenge/rkzH6YsPNgoJjn75i)
+  - [ ] [45_KnightsOnABoard](https://edabit.com/challenge/EwAXuk4urzK8WkRGw)
+
+- Expert
+  - [ ] [46_MiserableParodyOfACalculator](https://edabit.com/challenge/u2j86CBJibQA5KzQp)
+  - [ ] [47_EnglishToPigLatin](https://edabit.com/challenge/u2j86CBJibQA5KzQp)
+  - [ ] [48_ThreeSumProblem](https://edabit.com/challenge/wrxoYop5uZKG4nNSb)
+  - [ ] [49_PointWithATriangle](https://edabit.com/challenge/F2o3AGSk4NEctvieS)
+  - [ ] [50_MaxieAndMinnie](https://edabit.com/challenge/nMW5Tb8odgy3ePvGy)
