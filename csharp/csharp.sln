@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_FindTheBomb", "25_FindTh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_ConvertArrayItemsToAString", "26_ConvertArrayItemsToAString\26_ConvertArrayItemsToAString.csproj", "{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_FindLargestNumbersInAGroupOfArrays", "27_FindLargestNumbersInAGroupOfArrays\27_FindLargestNumbersInAGroupOfArrays.csproj", "{BEDA460B-5C0C-4557-8615-6267F6AFE210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDD1571D-CF4A-4375-83EE-ADAC184A1E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDA460B-5C0C-4557-8615-6267F6AFE210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDA460B-5C0C-4557-8615-6267F6AFE210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDA460B-5C0C-4557-8615-6267F6AFE210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDA460B-5C0C-4557-8615-6267F6AFE210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
