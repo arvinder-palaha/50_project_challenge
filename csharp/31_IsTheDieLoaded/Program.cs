@@ -6,5 +6,10 @@ public class Program
     {
         Console.WriteLine("Hello, World!");
     }
+
+    public static bool FairDie(int[] rolls)
+    {
+        throw new NotImplementedException();
+    }
 }
 
