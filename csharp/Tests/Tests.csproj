@@ -34,6 +34,7 @@
     <ProjectReference Include="..\31_IsTheDieLoaded\31_IsTheDieLoaded.csproj" />
     <ProjectReference Include="..\32_ImaginaryCodingInterview\32_ImaginaryCodingInterview.csproj" />
     <ProjectReference Include="..\33_PowerRanger\33_PowerRanger.csproj" />
+    <ProjectReference Include="..\34_FindTheVertexOfQuadratic\34_FindTheVertexOfQuadratic.csproj" />
   </ItemGroup>
 
 </Project>
