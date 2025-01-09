@@ -4,7 +4,8 @@
 
 Every quadratic curve y = a x² + b x + c has a vertex point: the turning point where the curve stops heading down and starts going up.
 
-Given the values a, b and c, you need to return the coordinates of the vertex. Return your answers rounded to 2 decimal places.
+Given the values a, b and c, you need to return the coordinates of the vertex.
+Return your answers rounded to 2 decimal places.
 
 ## Examples
 

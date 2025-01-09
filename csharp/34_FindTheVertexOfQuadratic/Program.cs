@@ -9,6 +9,8 @@ public class Program
 
     public static double[] FindVertex(int a, int b, int c)
     {
-        throw new NotImplementedException();
+        double x = -b / (2 * a);
+        double y = a * x * x + b * x + c;
+        return new double[] { x, y };
     }
 }
