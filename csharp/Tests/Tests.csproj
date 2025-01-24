@@ -35,6 +35,7 @@
     <ProjectReference Include="..\32_ImaginaryCodingInterview\32_ImaginaryCodingInterview.csproj" />
     <ProjectReference Include="..\33_PowerRanger\33_PowerRanger.csproj" />
     <ProjectReference Include="..\34_FindTheVertexOfQuadratic\34_FindTheVertexOfQuadratic.csproj" />
+    <ProjectReference Include="..\35_ConsecutiveNumbers\35_ConsecutiveNumbers.csproj" />
   </ItemGroup>
 
 </Project>

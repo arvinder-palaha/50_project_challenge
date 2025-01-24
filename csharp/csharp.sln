@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_PowerRanger", "33_PowerR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_FindTheVertexOfQuadratic", "34_FindTheVertexOfQuadratic\34_FindTheVertexOfQuadratic.csproj", "{0A6A830A-9E07-4C08-A174-E8EA34408EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_ConsecutiveNumbers", "35_ConsecutiveNumbers\35_ConsecutiveNumbers.csproj", "{6346E50B-5246-4DAD-94A7-A79F2209DF61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,5 +218,9 @@ Global
 		{0A6A830A-9E07-4C08-A174-E8EA34408EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A6A830A-9E07-4C08-A174-E8EA34408EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A6A830A-9E07-4C08-A174-E8EA34408EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6346E50B-5246-4DAD-94A7-A79F2209DF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6346E50B-5246-4DAD-94A7-A79F2209DF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6346E50B-5246-4DAD-94A7-A79F2209DF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6346E50B-5246-4DAD-94A7-A79F2209DF61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
