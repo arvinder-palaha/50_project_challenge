@@ -39,6 +39,7 @@
     <ProjectReference Include="..\36_TrackTheRobot\36_TrackTheRobot.csproj" />
     <ProjectReference Include="..\37_NextPrime\37_NextPrime.csproj" />
     <ProjectReference Include="..\38_AlmostPalindrome\38_AlmostPalindrome.csproj" />
+    <ProjectReference Include="..\39_AWeekLater\39_AWeekLater.csproj" />
   </ItemGroup>
 
 </Project>
