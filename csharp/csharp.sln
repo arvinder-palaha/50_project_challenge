@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_ConsecutiveNumbers", "35
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_TrackTheRobot", "36_TrackTheRobot\36_TrackTheRobot.csproj", "{29543233-4B53-4250-B331-5A0BBB77991A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_NextPrime", "37_NextPrime\37_NextPrime.csproj", "{9C7B29BD-69B3-43FB-BBEB-49E9CF1CB790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -228,5 +230,9 @@ Global
 		{29543233-4B53-4250-B331-5A0BBB77991A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29543233-4B53-4250-B331-5A0BBB77991A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29543233-4B53-4250-B331-5A0BBB77991A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7B29BD-69B3-43FB-BBEB-49E9CF1CB790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7B29BD-69B3-43FB-BBEB-49E9CF1CB790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7B29BD-69B3-43FB-BBEB-49E9CF1CB790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7B29BD-69B3-43FB-BBEB-49E9CF1CB790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

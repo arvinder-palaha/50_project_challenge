@@ -80,7 +80,7 @@ Create a test for the project in the Tests folder.
   - [x] [34_FindTheVertexOfQuadratic](https://edabit.com/challenge/TH8Y97XYtGgbDW8Qw)
   - [x] [35_ConsecutiveNumbers](https://edabit.com/challenge/TAZywz6R2hu9tDQWc)
   - [x] [36_TrackTheRobot](https://edabit.com/challenge/g88PKZrCY6sWPBva7)
-  - [ ] [37_NextPrime](https://edabit.com/challenge/FKb8JY75nkaHz7B3F)
+  - [x] [37_NextPrime](https://edabit.com/challenge/FKb8JY75nkaHz7B3F)
   - [ ] [38_AlmostPalindrome](https://edabit.com/challenge/t6R99zCQ7nesR7Rdk)
   - [ ] [39_AWeekLater](https://edabit.com/challenge/y4esBva2cYph5QKg5)
   - [ ] [40_CountDuplicateCharacters](https://edabit.com/challenge/wXCzoLtvvEEYBs3p9)
