@@ -38,6 +38,7 @@
     <ProjectReference Include="..\35_ConsecutiveNumbers\35_ConsecutiveNumbers.csproj" />
     <ProjectReference Include="..\36_TrackTheRobot\36_TrackTheRobot.csproj" />
     <ProjectReference Include="..\37_NextPrime\37_NextPrime.csproj" />
+    <ProjectReference Include="..\38_AlmostPalindrome\38_AlmostPalindrome.csproj" />
   </ItemGroup>
 
 </Project>
