@@ -36,6 +36,7 @@
     <ProjectReference Include="..\33_PowerRanger\33_PowerRanger.csproj" />
     <ProjectReference Include="..\34_FindTheVertexOfQuadratic\34_FindTheVertexOfQuadratic.csproj" />
     <ProjectReference Include="..\35_ConsecutiveNumbers\35_ConsecutiveNumbers.csproj" />
+    <ProjectReference Include="..\36_TrackTheRobot\36_TrackTheRobot.csproj" />
   </ItemGroup>
 
 </Project>
