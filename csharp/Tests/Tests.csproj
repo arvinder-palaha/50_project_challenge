@@ -40,6 +40,7 @@
     <ProjectReference Include="..\37_NextPrime\37_NextPrime.csproj" />
     <ProjectReference Include="..\38_AlmostPalindrome\38_AlmostPalindrome.csproj" />
     <ProjectReference Include="..\39_AWeekLater\39_AWeekLater.csproj" />
+    <ProjectReference Include="..\40_CountDuplicateCharacters\40_CountDuplicateCharacters.csproj" />
   </ItemGroup>
 
 </Project>

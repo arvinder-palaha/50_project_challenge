@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38_AlmostPalindrome", "38_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_AWeekLater", "39_AWeekLater\39_AWeekLater.csproj", "{4D591F01-125C-4850-B66F-DFB2C3CACBB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_CountDuplicateCharacters", "40_CountDuplicateCharacters\40_CountDuplicateCharacters.csproj", "{632D6423-CFA2-420C-9DE4-B6EB9B308DA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -246,5 +248,9 @@ Global
 		{4D591F01-125C-4850-B66F-DFB2C3CACBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D591F01-125C-4850-B66F-DFB2C3CACBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D591F01-125C-4850-B66F-DFB2C3CACBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632D6423-CFA2-420C-9DE4-B6EB9B308DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632D6423-CFA2-420C-9DE4-B6EB9B308DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632D6423-CFA2-420C-9DE4-B6EB9B308DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632D6423-CFA2-420C-9DE4-B6EB9B308DA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
