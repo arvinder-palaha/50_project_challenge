@@ -86,7 +86,7 @@ Create a test for the project in the Tests folder.
   - [x] [40_CountDuplicateCharacters](https://edabit.com/challenge/wXCzoLtvvEEYBs3p9)
 
 - Very Hard
-  - [ ] [41_SimplifiedFraction](https://edabit.com/challenge/3wT3QcDdfvMR3amjc)
+  - [x] [41_SimplifiedFraction](https://edabit.com/challenge/3wT3QcDdfvMR3amjc)
   - [ ] [42_MaximumOccurrence](https://edabit.com/challenge/vtdfueRCmpRGyLAGs)
   - [ ] [43_TrackTheRobotPart3](https://edabit.com/challenge/6S2aJYTjAka94muDT)
   - [ ] [44_Working9To5](https://edabit.com/challenge/rkzH6YsPNgoJjn75i)

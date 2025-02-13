@@ -41,6 +41,7 @@
     <ProjectReference Include="..\38_AlmostPalindrome\38_AlmostPalindrome.csproj" />
     <ProjectReference Include="..\39_AWeekLater\39_AWeekLater.csproj" />
     <ProjectReference Include="..\40_CountDuplicateCharacters\40_CountDuplicateCharacters.csproj" />
+    <ProjectReference Include="..\41_SimplifiedFraction\41_SimplifiedFraction.csproj" />
   </ItemGroup>
 
 </Project>
