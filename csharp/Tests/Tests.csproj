@@ -45,6 +45,7 @@
     <ProjectReference Include="..\42_MaximumOccurrence\42_MaximumOccurrence.csproj" />
     <ProjectReference Include="..\43_TrackTheRobotPart3\43_TrackTheRobotPart3.csproj" />
     <ProjectReference Include="..\44_Working9To5\44_Working9To5.csproj" />
+    <ProjectReference Include="..\45_KnightsOnABoard\45_KnightsOnABoard.csproj" />
   </ItemGroup>
 
 </Project>

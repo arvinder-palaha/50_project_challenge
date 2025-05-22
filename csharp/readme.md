@@ -89,7 +89,7 @@ Create a test for the project in the Tests folder.
   - [x] [41_SimplifiedFraction](https://edabit.com/challenge/3wT3QcDdfvMR3amjc)
   - [x] [42_MaximumOccurrence](https://edabit.com/challenge/vtdfueRCmpRGyLAGs)
   - [x] [43_TrackTheRobotPart3](https://edabit.com/challenge/6S2aJYTjAka94muDT)
-  - [ ] [44_Working9To5](https://edabit.com/challenge/rkzH6YsPNgoJjn75i)
+  - [x] [44_Working9To5](https://edabit.com/challenge/rkzH6YsPNgoJjn75i)
   - [ ] [45_KnightsOnABoard](https://edabit.com/challenge/EwAXuk4urzK8WkRGw)
 
 - Expert
