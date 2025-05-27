@@ -5,6 +5,14 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("Miserable Parody of a Calculator");
+        if (args.Length > 0)
+        {
+            Console.WriteLine(Calculator(args[0]));
+        }
+        else
+        {
+            Console.WriteLine("No expression provided");
+        }
     }
 
     public static double Calculator(string expression)
@@ -38,11 +46,40 @@ public class Program
                 operators.Add(expression[i].ToString());
             }   
         }
-        Console.WriteLine("Numbers: " + string.Join(", ", numbers));
-        Console.WriteLine("Operators: " + string.Join(", ", operators));
-        result = numbers[0];
+        PrintIt(numbers, operators);
 
         // perform * and / first
+        while (operators.Contains("*") || operators.Contains("/"))
+        {
+            int i = 0;
+            while (i < operators.Count)
+            {
+                Console.WriteLine("i: " + i);
+                if (operators[i] == "*" || operators[i] == "/")
+                {
+                    double temp;
+                    if (operators[i] == "*")
+                    {
+                        temp = numbers[i] * numbers[i + 1];
+                    }
+                    else // division
+                    {
+                        temp = numbers[i] / numbers[i + 1];
+                    }
+                    numbers[i] = temp;
+                    numbers.RemoveAt(i + 1);
+                    operators.RemoveAt(i);
+                    PrintIt(numbers, operators);
+                }
+                else
+                {
+                    i++;
+                }
+                PrintIt(numbers, operators);
+            }
+            PrintIt(numbers, operators);
+        }
+        PrintIt(numbers, operators);
         /*
         "13+2-5*2"
         numbers: [13, 2, 5, 2]
@@ -58,8 +95,10 @@ public class Program
         numbers: [13, 2, 10]
         operators: ["+", "-"]
         */
+        result = numbers[0];
         for (int i = 0; i < operators.Count; i++)
         {
+            Console.WriteLine("i: " + i);
             if (operators[i] == "+")
             {
                 result += numbers[i + 1];
@@ -68,15 +107,13 @@ public class Program
             {
                 result -= numbers[i + 1];
             }
-            else if (operators[i] == "*")
-            {
-                result *= numbers[i + 1];
-            }
-            else if (operators[i] == "/")
-            {
-                result /= numbers[i + 1];
-            }
         }
         return result;
+    }
+
+    private static void PrintIt(List<double> numbers, List<string> operators)
+    {
+        Console.WriteLine("Numbers: " + string.Join(", ", numbers));
+        Console.WriteLine("Operators: " + string.Join(", ", operators));
     }
 }

@@ -93,7 +93,7 @@ Create a test for the project in the Tests folder.
   - [x] [45_KnightsOnABoard](https://edabit.com/challenge/EwAXuk4urzK8WkRGw)
 
 - Expert
-  - [ ] [46_MiserableParodyOfACalculator](https://edabit.com/challenge/u2j86CBJibQA5KzQp)
+  - [x] [46_MiserableParodyOfACalculator](https://edabit.com/challenge/u2j86CBJibQA5KzQp)
   - [ ] [47_EnglishToPigLatin](https://edabit.com/challenge/u2j86CBJibQA5KzQp)
   - [ ] [48_ThreeSumProblem](https://edabit.com/challenge/wrxoYop5uZKG4nNSb)
   - [ ] [49_PointWithATriangle](https://edabit.com/challenge/F2o3AGSk4NEctvieS)
