@@ -42,6 +42,22 @@ public class Program
         Console.WriteLine("Operators: " + string.Join(", ", operators));
         result = numbers[0];
 
+        // perform * and / first
+        /*
+        "13+2-5*2"
+        numbers: [13, 2, 5, 2]
+        operators: ["+", "-", "*"]
+
+        result = 13
+        
+        - 3rd operator is *, at i = 2
+        - numbers[i] = numbers[i] * numbers[i+1]
+        - operators.RemoveAt(i)
+        - numbers.RemoveAt(i+1)
+
+        numbers: [13, 2, 10]
+        operators: ["+", "-"]
+        */
         for (int i = 0; i < operators.Count; i++)
         {
             if (operators[i] == "+")
