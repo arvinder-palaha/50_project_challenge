@@ -52,6 +52,14 @@ public class Program
             {
                 result -= numbers[i + 1];
             }
+            else if (operators[i] == "*")
+            {
+                result *= numbers[i + 1];
+            }
+            else if (operators[i] == "/")
+            {
+                result /= numbers[i + 1];
+            }
         }
         return result;
     }
