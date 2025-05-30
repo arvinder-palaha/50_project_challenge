@@ -20,20 +20,22 @@ public class Program
     public static string Translate(string sentence)
     {
         // extract words from sentence using regex
-        var words = Regex.Split(sentence, @"w+");
+        var words = Regex.Matches(sentence, @"\w+");
+        Printout(words);
 
         // extract the bits in between the words
-        var inBetweenWords = Regex.Split(sentence, @"\W+");
+        var inBetweenWords = Regex.Matches(sentence, @"\W+");
+        Printout(inBetweenWords);
 
         // translate each word
-        var translatedWords = words.Select(word => TranslatedWord(word)).ToArray();
+        var translatedWords = words.Select(word => TranslatedWord(word.Value)).ToArray();
 
         // build the sentence again
         string result = "";
-        for (int i = 0; i < words.Length; i++)
+        for (int i = 0; i < words.Count; i++)
         {
             result += translatedWords[i];
-            if (i < inBetweenWords.Length)
+            if (i < inBetweenWords.Count)
             {
                 result += inBetweenWords[i];
             }
@@ -44,5 +46,10 @@ public class Program
     public static string TranslatedWord(string word)
     {
         return word;
+    }
+
+    public static void Printout(MatchCollection words)
+    {
+        Console.WriteLine(string.Join(", ", words));
     }
 }
