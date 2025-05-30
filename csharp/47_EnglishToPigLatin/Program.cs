@@ -45,7 +45,40 @@ public class Program
 
     public static string TranslatedWord(string word)
     {
-        return word;
+        string result = "";
+        // if first letter is vowel, add "yay" to the end
+        if (Regex.IsMatch(word, @"^[aeiouAEIOU]"))
+        {
+            result = word + "yay";
+        }
+        // if first letter is consonant, move it to the end and add "ay"
+        else
+        {
+            bool isCapital = char.IsUpper(word[0]);
+            string firstLettersBeforeVowel = Regex.Match(word, @"^[^aeiouAEIOU]+").Value;
+            string restOfWord = word.Substring(firstLettersBeforeVowel.Length);
+
+            if (isCapital)
+            {
+                result = string.Concat(
+                    restOfWord[0].ToString().ToUpper(),
+                    restOfWord.AsSpan(1).ToString(),
+                    firstLettersBeforeVowel[0].ToString().ToLower(),
+                    firstLettersBeforeVowel.AsSpan(1).ToString(),
+                    "ay"
+                );
+            }
+            else
+            {
+                result = string.Concat(
+                    restOfWord,
+                    firstLettersBeforeVowel,
+                    "ay"
+                );
+            }
+        }
+
+        return result;
     }
 
     public static void Printout(MatchCollection words)
