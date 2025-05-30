@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46_MiserableParodyOfACalcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_EnglishToPigLatin", "47_EnglishToPigLatin\47_EnglishToPigLatin.csproj", "{8069A0C6-1F8B-4386-B2E1-0F4D2C58F391}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48_ThreeSumProblem", "48_ThreeSumProblem\48_ThreeSumProblem.csproj", "{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -294,5 +296,9 @@ Global
 		{8069A0C6-1F8B-4386-B2E1-0F4D2C58F391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8069A0C6-1F8B-4386-B2E1-0F4D2C58F391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8069A0C6-1F8B-4386-B2E1-0F4D2C58F391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

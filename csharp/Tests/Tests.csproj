@@ -48,6 +48,7 @@
     <ProjectReference Include="..\45_KnightsOnABoard\45_KnightsOnABoard.csproj" />
     <ProjectReference Include="..\46_MiserableParodyOfACalculator\46_MiserableParodyOfACalculator.csproj" />
     <ProjectReference Include="..\47_EnglishToPigLatin\47_EnglishToPigLatin.csproj" />
+    <ProjectReference Include="..\48_ThreeSumProblem\48_ThreeSumProblem.csproj" />
   </ItemGroup>
 
 </Project>
