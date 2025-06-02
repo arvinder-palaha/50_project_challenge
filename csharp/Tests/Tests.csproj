@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="coverlet.collector" />
+    <PackageReference Include="FluentAssertions" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" />
     <PackageReference Include="xunit" />
     <PackageReference Include="xunit.runner.visualstudio" />
@@ -49,6 +50,7 @@
     <ProjectReference Include="..\46_MiserableParodyOfACalculator\46_MiserableParodyOfACalculator.csproj" />
     <ProjectReference Include="..\47_EnglishToPigLatin\47_EnglishToPigLatin.csproj" />
     <ProjectReference Include="..\48_ThreeSumProblem\48_ThreeSumProblem.csproj" />
+    <ProjectReference Include="..\49_PointWithATriangle\49_PointWithATriangle.csproj" />
   </ItemGroup>
 
 </Project>
