@@ -13,6 +13,11 @@ public class Program
     
     public static bool WithinTriangle(int[] points)
     {
+        // first 6 coordinates are the triangle
+        // last 2 coordiantes are the point
+        // find area of the triangle
+        // find area of the triangles made with the point and each two of the triangle points
+        // if the sum of the areas of the triangles is equal to the area of the triangle, then the point is within the triangle
         return false;
     }
 }
