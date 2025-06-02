@@ -1,4 +1,6 @@
-﻿namespace ThreeSumProblem;
+﻿using System.Xml.XPath;
+
+namespace ThreeSumProblem;
 
 public class Program
 {
@@ -14,17 +16,23 @@ public class Program
     public static string ThreeSum(int[] nums)
     {
         // find all triplets that sum to 0
+        string result = "{ ";
+
         // are there at least 3 elements? -> return empty array
         if (nums.Length < 3)
         {
-            return "{ }";
+            return result += "}";
         }
 
         // loop through the array using loop index as the first element of a possible 0-sum triplet
-        // loop through the array after the first element, using loop index as the second element of a possible 0-sum triplet
-        // loop through the array after the second element, using loop index as the third element of a possible 0-sum triplet
-        // if the sum of the three elements is 0, add the triplet to the result
+        for (int first = 0; first < nums.Length -2; first ++)
+        {
+            // loop through the array after the first element, using loop index as the second element of a possible 0-sum triplet
+            // loop through the array after the second element, using loop index as the third element of a possible 0-sum triplet
+            // if the sum of the three elements is 0, add the triplet to the result
+        }
+
         // return the result
-        return "{ }";
+        return result + "}";
     }
 }
