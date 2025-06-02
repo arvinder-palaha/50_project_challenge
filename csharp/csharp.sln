@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_EnglishToPigLatin", "47_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48_ThreeSumProblem", "48_ThreeSumProblem\48_ThreeSumProblem.csproj", "{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49_PointWithATriangle", "49_PointWithATriangle\49_PointWithATriangle.csproj", "{0AFBE2F1-0282-4E77-8C32-2E6818E6D9C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -300,5 +302,9 @@ Global
 		{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B1BC40-3CD2-4C60-B192-26CB170FB36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFBE2F1-0282-4E77-8C32-2E6818E6D9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFBE2F1-0282-4E77-8C32-2E6818E6D9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFBE2F1-0282-4E77-8C32-2E6818E6D9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFBE2F1-0282-4E77-8C32-2E6818E6D9C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
