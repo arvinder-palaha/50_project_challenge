@@ -96,5 +96,5 @@ Create a test for the project in the Tests folder.
   - [x] [46_MiserableParodyOfACalculator](https://edabit.com/challenge/u2j86CBJibQA5KzQp)
   - [x] [47_EnglishToPigLatin](https://edabit.com/challenge/uhsik73PY7Y2XftzG)
   - [x] [48_ThreeSumProblem](https://edabit.com/challenge/wrxoYop5uZKG4nNSb)
-  - [ ] [49_PointWithATriangle](https://edabit.com/challenge/F2o3AGSk4NEctvieS)
+  - [x] [49_PointWithATriangle](https://edabit.com/challenge/F2o3AGSk4NEctvieS)
   - [ ] [50_MaxieAndMinnie](https://edabit.com/challenge/nMW5Tb8odgy3ePvGy)
