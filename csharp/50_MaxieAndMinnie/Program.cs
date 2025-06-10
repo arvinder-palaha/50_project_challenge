@@ -28,6 +28,12 @@ public class Program
         {
             for (int j = i + 1; j < digitCount; j++)
             {
+                // skip if means there is a leading zero
+                if (i == 0 && digits[j] == '0')
+                {
+                    continue;
+                }
+
                 // swap the digits
                 var swapped = SwapDigits(digits, i, j);
 
