@@ -13,38 +13,29 @@ public class Program
     
     public static bool WithinTriangle(int[] points)
     {
-        if (points.Length != 8)
+        var Ax = points[0];
+        var Ay = points[1];
+        var Bx = points[2];
+        var By = points[3];
+        var Cx = points[4];
+        var Cy = points[5];
+        var Px = points[6];
+        var Py = points[7];
+
+        var area1 = Area(Ax, Ay, Bx, By, Px, Py);
+        var area2 = Area(Ax, Ay, Cx, Cy, Px, Py);
+        var area3 = Area(Bx, By, Cx, Cy, Px, Py);
+
+        if (area1 + area2 + area3 == Area(Ax, Ay, Bx, By, Cx, Cy))
         {
-            throw new ArgumentException("Points must be an array of 8 integers");
+            return true;
         }
-
-        // first 6 coordinates are the triangle
-        int Ax = points[0];
-        int Ay = points[1];
-        int Bx = points[2];
-        int By = points[3];
-        int Cx = points[4];
-        int Cy = points[5];
         
-        // last 2 coordiantes are the point
-        int Px = points[6];
-        int Py = points[7];
-        
-        // find area of the triangle
-        double area_ABC = area_triangle(Ax, Ay, Bx, By, Cx, Cy);
-
-        // find area of the triangles made with the point and each two of the triangle points
-        double area_PAB = area_triangle(Px, Py, Ax, Ay, Bx, By);
-        double area_PBC = area_triangle(Px, Py, Bx, By, Cx, Cy);
-        double area_PCA = area_triangle(Px, Py, Cx, Cy, Ax, Ay);
-
-        // if the sum of the areas of the triangles is equal to the area of the triangle, then the point is within the triangle
-        bool is_within_triangle = area_PAB + area_PBC + area_PCA == area_ABC;
-        return is_within_triangle;
+        return false;
     }
 
-    private static double area_triangle(int Ax, int Ay, int Bx, int By, int Cx, int Cy)
+    public static double Area(double x1, double y1, double x2, double y2, double x3, double y3)
     {
-        return Math.Abs(Ax * (By - Cy) + Bx * (Cy - Ay) + Cx * (Ay - By)) / 2.0;
+        return Math.Abs((x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)) / 2.0);
     }
 }
