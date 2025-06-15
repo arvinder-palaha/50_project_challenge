@@ -51,6 +51,7 @@
     <ProjectReference Include="..\47_EnglishToPigLatin\47_EnglishToPigLatin.csproj" />
     <ProjectReference Include="..\48_ThreeSumProblem\48_ThreeSumProblem.csproj" />
     <ProjectReference Include="..\49_PointWithATriangle\49_PointWithATriangle.csproj" />
+    <ProjectReference Include="..\50_MaxieAndMinnie\50_MaxieAndMinnie.csproj" />
   </ItemGroup>
 
 </Project>
